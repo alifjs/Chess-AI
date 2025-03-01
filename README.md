@@ -1,6 +1,9 @@
 # Chess AI
 
-A beautiful chess game with AI opponent built with React and TypeScript.
+A chess game with AI opponent built with React and TypeScript.
+
+## Live site:
+https://ai-chessmaster.netlify.app/
 
 ## Features
 
